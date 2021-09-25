@@ -1,5 +1,4 @@
 /*
-happy birthday min min!!! i just thought of this so it's not very good yet. hope you have (some) fun though! yay
 so the idea for this is a sokoban-like game.
 hjkl - movement (left, down, up, right)
 >< - movement (between levels)
